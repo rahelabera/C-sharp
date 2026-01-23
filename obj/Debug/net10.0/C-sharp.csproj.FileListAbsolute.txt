@@ -1,0 +1,15 @@
+C:\courses\C#\Projects\C-sharp\bin\Debug\net10.0\C-sharp.exe
+C:\courses\C#\Projects\C-sharp\bin\Debug\net10.0\C-sharp.deps.json
+C:\courses\C#\Projects\C-sharp\bin\Debug\net10.0\C-sharp.runtimeconfig.json
+C:\courses\C#\Projects\C-sharp\bin\Debug\net10.0\C-sharp.dll
+C:\courses\C#\Projects\C-sharp\bin\Debug\net10.0\C-sharp.pdb
+C:\courses\C#\Projects\C-sharp\obj\Debug\net10.0\C-sharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\courses\C#\Projects\C-sharp\obj\Debug\net10.0\C-sharp.AssemblyInfoInputs.cache
+C:\courses\C#\Projects\C-sharp\obj\Debug\net10.0\C-sharp.AssemblyInfo.cs
+C:\courses\C#\Projects\C-sharp\obj\Debug\net10.0\C-sharp.csproj.CoreCompileInputs.cache
+C:\courses\C#\Projects\C-sharp\obj\Debug\net10.0\C-sharp.sourcelink.json
+C:\courses\C#\Projects\C-sharp\obj\Debug\net10.0\C-sharp.dll
+C:\courses\C#\Projects\C-sharp\obj\Debug\net10.0\refint\C-sharp.dll
+C:\courses\C#\Projects\C-sharp\obj\Debug\net10.0\C-sharp.pdb
+C:\courses\C#\Projects\C-sharp\obj\Debug\net10.0\C-sharp.genruntimeconfig.cache
+C:\courses\C#\Projects\C-sharp\obj\Debug\net10.0\ref\C-sharp.dll
